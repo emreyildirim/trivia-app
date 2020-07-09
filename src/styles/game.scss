@@ -1,0 +1,12 @@
+.counter-container{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 35px;
+    margin: auto;
+    background-color:#FF8C00 ;
+    font-size: 24px;
+      .counter{
+        color:#FFF;
+      }
+}

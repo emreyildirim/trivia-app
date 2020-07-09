@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,YAAY,AAAA,CACR,MAAM,CALG,KAAK,CAMd,KAAK,CALG,KAAK,CAMb,UAAU,CALL,6DAA8F,CAMnG,OAAO,CAAE,IAAI,CACb,MAAM,CAAE,IAAI,CACZ,eAAe,CAAE,MAAM,CACvB,WAAW,CAAE,MAAM,CACnB,cAAc,CAAE,MAAM,CACtB,aAAa,CAAE,WAAW,CAC7B,AACD,AAAA,MAAM,AAAA,CACF,KAAK,CAbG,IAAI,CAcf",
+    "sources": [
+        "scorescreen.scss"
+    ],
+    "names": [],
+    "file": "scorescreen.min.css"
+}
